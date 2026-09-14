@@ -12,3 +12,4 @@ C:\Users\ACER\Documents\Lab02-Кадралиева\obj\Debug\net10.0\refint\Lab0
 C:\Users\ACER\Documents\Lab02-Кадралиева\obj\Debug\net10.0\Lab02-Кадралиева.pdb
 C:\Users\ACER\Documents\Lab02-Кадралиева\obj\Debug\net10.0\Lab02-Кадралиева.genruntimeconfig.cache
 C:\Users\ACER\Documents\Lab02-Кадралиева\obj\Debug\net10.0\ref\Lab02-Кадралиева.dll
+C:\Users\ACER\Documents\Lab02-Кадралиева\obj\Debug\net10.0\Lab02-Кадралиева.sourcelink.json

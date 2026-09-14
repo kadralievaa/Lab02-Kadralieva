@@ -1,0 +1,14 @@
+C:\Users\ACER\Documents\Lab02-Кадралиева\bin\Debug\net10.0\Lab02-Кадралиева.exe
+C:\Users\ACER\Documents\Lab02-Кадралиева\bin\Debug\net10.0\Lab02-Кадралиева.deps.json
+C:\Users\ACER\Documents\Lab02-Кадралиева\bin\Debug\net10.0\Lab02-Кадралиева.runtimeconfig.json
+C:\Users\ACER\Documents\Lab02-Кадралиева\bin\Debug\net10.0\Lab02-Кадралиева.dll
+C:\Users\ACER\Documents\Lab02-Кадралиева\bin\Debug\net10.0\Lab02-Кадралиева.pdb
+C:\Users\ACER\Documents\Lab02-Кадралиева\obj\Debug\net10.0\Lab02-Кадралиева.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\Lab02-Кадралиева\obj\Debug\net10.0\Lab02-Кадралиева.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\Lab02-Кадралиева\obj\Debug\net10.0\Lab02-Кадралиева.AssemblyInfo.cs
+C:\Users\ACER\Documents\Lab02-Кадралиева\obj\Debug\net10.0\Lab02-Кадралиева.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Lab02-Кадралиева\obj\Debug\net10.0\Lab02-Кадралиева.dll
+C:\Users\ACER\Documents\Lab02-Кадралиева\obj\Debug\net10.0\refint\Lab02-Кадралиева.dll
+C:\Users\ACER\Documents\Lab02-Кадралиева\obj\Debug\net10.0\Lab02-Кадралиева.pdb
+C:\Users\ACER\Documents\Lab02-Кадралиева\obj\Debug\net10.0\Lab02-Кадралиева.genruntimeconfig.cache
+C:\Users\ACER\Documents\Lab02-Кадралиева\obj\Debug\net10.0\ref\Lab02-Кадралиева.dll
